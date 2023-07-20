@@ -24,7 +24,7 @@ export default function expenseBanking1() {
                         />
                     </svg>
                 </div>
-                <p class="mt-16">Expense</p>
+                <p class="mt-16">Expensee</p>
                 <p class="mt-2 font-medium text-slate-700 dark:text-navy-100">
                     <span class="text-2xl">$7</span
                     ><span class="text-base">.14k</span>
