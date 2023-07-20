@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "../../public/css/base.css";
+@import "../../public/css/components.css";
+@import "../../public/css/pages.css";
+@import "../../public/css/fontawesome-all.css";
